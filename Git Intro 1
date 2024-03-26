@@ -28,3 +28,24 @@ It allows others to review and discuss the proposed changes before they are merg
 
 Clone:
 Cloning creates a copy of a remote repository on your local machine, allowing you to work on the project locally.
+
+
+Basic Workflow:
+
+1- Initialize a Repository:
+Create a new repository or clone an existing one.
+
+2-Make Changes:
+Edit files in your project.
+
+3-Stage Changes:
+Use git add to stage changes for commit.
+
+4-Commit Changes:
+Use git commit to save staged changes to the repository.
+
+5-Push Changes:
+Use git push to upload local commits to a remote repository.
+
+6-Pull Changes:
+Use git pull to fetch and merge changes from a remote repository to your local repository.
