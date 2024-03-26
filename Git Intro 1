@@ -53,6 +53,7 @@ Use git pull to fetch and merge changes from a remote repository to your local r
 
 Basic Git Commands:
 
+
 1- git init: Initializes a new Git repository in the current directory.
 
 2- git clone [repository_url]: Creates a copy of a remote repository on your local machine.
@@ -62,3 +63,4 @@ Basic Git Commands:
 4- git commit -m "Commit message": Records changes in the staging area to the repository along with a message describing the changes.
 
 5- git status: Shows the status of changes as untracked, modified, or staged.
+
